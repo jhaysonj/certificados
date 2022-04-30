@@ -1,0 +1,14 @@
+curso em video:
+
+	emitidos:
+		mysql
+		java + poo
+
+	nao emitidos:
+		html
+		css
+		javascript
+		python mundo 3
+		
+		
+
