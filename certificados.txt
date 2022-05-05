@@ -9,6 +9,7 @@ curso em video:
 		css
 		javascript
 		python mundo 3
+		git/github
 		
 		
 
