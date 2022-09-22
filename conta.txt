@@ -1,0 +1,6 @@
+total de horas complementares:
+	40h Java POO
+	40h Mysql
+	20h WifiHacking
+
+total = 100h --> 10 horas complementares
